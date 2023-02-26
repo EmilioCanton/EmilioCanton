@@ -1,17 +1,8 @@
 ## Future computer engineer, student at CEFET-MG ✌️
 ### ~Canton
 
-<!--
-<div style="display: inline_block"><br>
-
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
-</div>
--->
-
-<div style="display: inline_block"><br>
-  <img align="right" alt="xadres" height="250" style="border-radius:100px;"
-  src="Eu.jpeg">
-</div>
+<div style="display: block"><br>
+<img align="right" alt="Canton-pic" height="250" style="border-radius:100px;"src="Eu.jpeg">
 
 
 
@@ -28,12 +19,6 @@
 </picture>
 
 
-          
-        
-
-
-
-
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=EmilioCanton&layout=compact"
@@ -45,6 +30,14 @@
 />
 <img src="https://github.com/anuraghazra/github-readme-stats" />
 </picture>
+
+<div style="display: inline_block"><br>
+  <img align="right" alt="Canton-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="right" alt="Canton-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="right" alt="Canton-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="right" alt="Canton-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
+ </div>
 
 
 
