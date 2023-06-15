@@ -2,7 +2,7 @@
 ### ~Canton
 
 <div style="display: block"><br>
-<img align="right" alt="Canton-pic" height="250" style="border-radius:100px;"src="Eu.jpeg">
+<!--<img align="right" alt="Canton-pic" height="250" style="border-radius:100px;"src="Eu.jpeg"> -->
 
 <picture>
 <source 
